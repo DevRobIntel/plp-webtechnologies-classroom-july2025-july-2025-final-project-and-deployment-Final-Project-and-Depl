@@ -1,0 +1,10 @@
+{
+  "name": "robert-kibugi-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Robert Muiruri Kibugi",
+  "scripts": {
+    "start": "echo 'Static site ready to serve'"
+  },
+  "author": "Robert Muiruri Kibugi",
+  "license": "MIT"
+}
